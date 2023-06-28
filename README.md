@@ -7,4 +7,4 @@ Trying Lazypredict to find the best classifier for my data
 *  Logistic Regression
 *  K-nearest Neighbors
 *  Catboost Classifier
-*  and other using LazyClassifier
+*  other using LazyClassifier
