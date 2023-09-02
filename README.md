@@ -1,5 +1,5 @@
 # Lazypredict_Classifier
-Trying Lazypredict to find the best classifier for my data
+Trying Lazypredict to find the best classifier for the data
 *  Random Forest
 *  AdaBoost
 *  XGBoost
